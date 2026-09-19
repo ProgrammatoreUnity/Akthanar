@@ -6,7 +6,7 @@
 
 - Something about me
 
-      int birthYear = 1995;
+      int yearOfBirth = 1995;
       string realName = "Luca";
       string userName = "Pingu";
 
