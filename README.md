@@ -1,24 +1,16 @@
-- 👋 Hello World! I’m an italian game developer
+- Hello World! I’m an italian game developer
 
-
-      Game Designer (junior)
-      Unity Programmer (mid)
+      Unity Game Programmer
+      Unity Tool Programmer
+      Game Designer (meh)
 
 - Something about me
 
-      int _currentAge = 28;
-      static int born = 1995;
+      int birthYear = 1995;
       string realName = "Luca";
-      string userName = "Akthanar";
+      string userName = "Pingu";
 
 - if (you want contact me)
 
       var email = programmatore.unity@gmail.com
       var telegram = t.me/ProgrammatoreUnityBot
-
-
-
-<!---
-Akthanar/Akthanar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
